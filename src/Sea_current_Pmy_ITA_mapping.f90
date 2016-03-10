@@ -1,6 +1,6 @@
   PROGRAM Sea_current_Pmy_ITA_mapping
 !-------------------------------------------------------------------------------
-! Sea_current_Pmy_ITA_mapping 
+! Sea_current_Pmy_ITA_mapping v.1.0 
 ! Copyright 2016 (RSE SpA)
 ! SPHERA authors and email contact are provided on the documentation file.
 ! This program is free software: you can redistribute it and/or modify
